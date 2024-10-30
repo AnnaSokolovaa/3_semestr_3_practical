@@ -70,6 +70,7 @@
 
 .tabs_text_1{
     font-size: clamp(25px, 2.5vw, 36px);
+    font-weight: 700;
 }
 
 .tabs_text_6{
@@ -96,6 +97,7 @@
 
 .tabs_text_3{
     font-size: clamp(20px, 2vw, 28px);
+    font-weight: 700;
 }
 
 .tabs_text_4{
@@ -114,7 +116,8 @@
     color: #232536;
 }
 
-.post_text_5{
+.tabs_text_5{
+    font-weight: 700;
     font-size: clamp(14px, 1.6vw, 24px);
 }
 
